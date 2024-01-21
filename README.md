@@ -4,6 +4,14 @@ Running:
 
 navigate in browser: http://localhost:3000
 
+Screenshots:
+
+<img src="./screenshots/page.png" width="500">
+<img src="./screenshots/backend_test_ok.png" width="500">
+<img src="./screenshots/backend_test_memory_fail.png" width="500">
+<img src="./screenshots/ui_test.png" width="500">
+<img src="./screenshots/_debugger_.png" width="500">
+
 ---
 Testing:
 - backend (phpUnit):
